@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jvbsilva
-- 👀 I’m interested in Python, Data Science, Software Development, Web Development and Games.
-- 🌱 I’m currently learning how to work with Django to develop web applications.
-- 💞️ I’m looking to collaborate on any project related with the areas I'm interested in.
+- 💞️ I’m interested in Java, Python, Data Science and Web Development.
+- 👀 I’m looking to collaborate on any project related with the areas I'm interested in.
+- 🌱 I’m currently learning how to work with Spring Boot to develop web applications.
 - 📫 joaovictorbarros1@gmail.com
 
 <!---
